@@ -10,27 +10,7 @@
 }
 
 /*-- Blog home Hero --*/
-.blog-home-hero {
-    height: 100vh;
-    width: 100%;
-    background-image: url(../images/bg/blog-hero.png);
-    background-size: cover;
-    background-position: center center;
-    display: flex;
-    align-items: center;
 
-    // Responsive
-    @media #{$tablet-device} {
-        height: auto;
-        padding: 150px 0;
-    }
-
-    @media #{$large-mobile} {
-        height: auto;
-    }
-
-    @media #{$small-mobile} {}
-}
 
 /*-- Blog home Content --*/
 .blog-home-hero-content {

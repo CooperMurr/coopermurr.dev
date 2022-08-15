@@ -32,9 +32,9 @@ const Contact = () => {
 
                         <Col lg={6}>
                             <Map
-                                text={"Currently I live in Bushwick, NY but I'm primarily located in Ithaca, NY completing my studies."}
-                                lat={40.689830574}
-                                long={-73.917829662}
+                                text={"Currently I live Ithaca, NY completing my studies as a third year at Cornell University."}
+                                lat={42.4440}
+                                long={-76.5019}
                             />
                         </Col>
                     </Row>

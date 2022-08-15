@@ -26,13 +26,14 @@
     "title": "Custom Audio Machine Learning for Robotic Design",
     "slug": "audio-ml-david",
     "category": "Audio ML & Robotics",
-    "thumb": "post2.jpg",
+    "thumb": "audioml_thumb.jpg",
     "description": "<p>One of my advisors, David Goedicke, does extensive research into how audio can be used to improve human-robotics interactions through machine learning. I've spent a better part of this summer programming with him to create a streamlined system that allows anyone to upload their own audio ML models and use them to control a small robot.</p><p>Through node-red, Google's Teachable Machines, and a ton of backend development, we hope to provide a simple process for building robots that naturally react to sounds in ways not possible to the average, non-technical person.</p><p>Links to both custom node-red nodes can be found on my GitHub.</p>",
     "previewImages": [
+      "audioml2.jpg",
       "audioml1.jpg"
     ],
     "meta": {
-      "date": "06/15/2022",
+      "date": "08/11/2022",
       "website": "",
       "services": [
         "Node-Red",
@@ -108,24 +109,22 @@
   },
   {
     "id": 6,
-    "title": "Coming Soon",
-    "slug": "coming-soon",
-    "category": "Check Back Soon!",
-    "thumb": "comingsoon.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "title": "Immersive Bus Ride",
+    "slug": "vr-bus-ride",
+    "category": "Virtual Reality",
+    "thumb": "vrbusthumb.jpg",
+    "description": "<p>The Immsersive Bus Ride is an in progress Roosevelt Island Tour project where guests are accompanied with Oculus Quest headsets and are driven around the island learning about climate change. During this project, I maintained and setup technical equipment and assisted with software problems as necessary.</p><p>As climate change is one of humanity's most pressing problems, the public needs to be come more informed on effective measures to take. So, through the immersive VR bus ride, guests experience a different future of Roosevelt Island.</p>",
     "previewImages": [
-      "portfolio-6.jpg",
-      "portfolio-2.jpg",
-      "portfolio-3.jpg"
+      "vrbus2.jpg",
+      "vrbus1.jpg"  
+      
     ],
     "meta": {
-      "client": "Tasnim Khatun",
-      "date": "29/09/2021",
-      "website": "https://hasthemes.com",
+      "date": "08/12/2022",
+      "website": "https://tech.cornell.edu/campus/buildings/tata-innovation-center/",
       "services": [
-        "Branding",
-        "Tech",
-        "Photography"
+        "Virtual Reality",
+        "Climate Change"
       ]
     }
   },

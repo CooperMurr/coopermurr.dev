@@ -10,22 +10,15 @@ import AboutPage from "./pages/about";
 import ErrorPage from "./pages/404Error";
 import ContactPage from "./pages/contact";
 /* import ServicePage from "./pages/service"; */
-import Home from "./pages/home/Home";
 /* import HomeDefault from "./pages/home/HomeDefault"; */
-import BlogDetailsPage from "./pages/blog/BlogDetails";
 /* import HomeFiveColumn from './pages/home/HomeFiveColumn';
 import HomeFourColumn from "./pages/home/HomeFourColumn";
 import BlogThreeColumnPage from "./pages/blog/ThreeColumn";
 import HomeThreeColumn from "./pages/home/HomeThreeColumn"; */
 import PortfolioDetailsPage from "./pages/portfolio/details";
 import HomePersonalPortfolio from "./pages/home/HomePersonalPortfolio";
-import HomeFreelancerPortfolio from "./pages/home/HomeFreelancerPortfolio";
 import PortfolioGridTwoColumnPage from "./pages/portfolio/grid/two-column";
-import BlogTwoColumnLeftSidebarPage from "./pages/blog/TwoColumnLeftSidebar";
-import PortfolioGridFourColumnPage from "./pages/portfolio/grid/four-column";
-import PortfolioGridThreeColumnPage from "./pages/portfolio/grid/three-column";
-import BlogTwoColumnRightSidebarPage from "./pages/blog/TwoColumnRightSidebar"; 
-import PortfolioMasonryTwoColumnPage from "./pages/portfolio/masonry/two-column";
+
 /* import PortfolioMasonryFourColumnPage from "./pages/portfolio/masonry/four-column";
 import PortfolioMasonryThreeColumnPage from "./pages/portfolio/masonry/three-column";
 import PortfolioGridFourColumnFullWidthPage from "./pages/portfolio/grid/four-column-fullwidth";
@@ -43,8 +36,6 @@ const App = () => {
                 <Switch>
                     <Route path={`${process.env.PUBLIC_URL + "/contact"}`}
                            component={ContactPage}/>
-                    <Route path={`${process.env.PUBLIC_URL + "/blog/:slug"}`}
-                           component={BlogDetailsPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio/:slug"}`}
                            component={PortfolioDetailsPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio"}`}

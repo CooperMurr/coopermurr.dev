@@ -2,31 +2,21 @@
   {
     "id": 1,
     "title": "WEB DESIGN",
-    "content": "There are many variations of passages of Ipsum available, but the majority have suffered alteration in some form, variations of passages of Ipsum available but the majority have suffered"
+    "content": "What I’m currently most interested in learning more about. After creating this site and taking part in React web development courses, I feel like I’ll focus more time on web development in the near future."
   },
   {
     "id": 2,
-    "title": "PHOTOGRAPHY",
-    "content": "There are many variations of passages of Ipsum available, but the majority have suffered alteration in some form, variations of passages of Ipsum available but the majority have suffered"
+    "title": "MACHINE LEARNING",
+    "content": "Projects like CUSD, the Audio ML work, and the Axidraw Shading work exhibit my understanding of ML. Hopefully I’ll continue to improve at developing models through course work and other projects."
   },
   {
     "id": 3,
-    "title": "WEB DEVELOPMENT",
-    "content": "There are many variations of passages of Ipsum available, but the majority have suffered alteration in some form, variations of passages of Ipsum available but the majority have suffered"
+    "title": "GAME DESIGN",
+    "content": "Video games were the original reason I considered becoming a Computer Science student, and over the course of “Grow Crazy”s development I’ve become proficient in understanding game development concepts."
   },
   {
     "id": 4,
-    "title": "APP DEVELOPMENT",
-    "content": "There are many variations of passages of Ipsum available, but the majority have suffered alteration in some form, variations of passages of Ipsum available but the majority have suffered"
-  },
-  {
-    "id": 5,
-    "title": "PHOTOSHOP",
-    "content": "There are many variations of passages of Ipsum available, but the majority have suffered alteration in some form, variations of passages of Ipsum available but the majority have suffered"
-  },
-  {
-    "id": 6,
-    "title": "GRAPHIC DESIGN",
-    "content": "There are many variations of passages of Ipsum available, but the majority have suffered alteration in some form, variations of passages of Ipsum available but the majority have suffered"
+    "title": "IMPROV COMEDY",
+    "content": "Going on 7 years of improvisational comedy. While it’s amazing to both watch and participate, it’s hard to forget how useful it is in everyday life."
   }
 ]
