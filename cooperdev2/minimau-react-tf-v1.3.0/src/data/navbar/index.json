@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/",
+    "megaMenu": false
+  },
+  {
+    "id": 2,
+    "title": "About Me",
+    "link": "/about",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 3,
+    "title": "Portfolio",
+    "link": "/portfolio",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  
+  {
+    "id": 6,
+    "title": "Contact",
+    "link": "/contact"
+  }
+]

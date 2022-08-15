@@ -1,0 +1,249 @@
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Integrated Robotics for Learning Physical Artistry",
+    "slug": "ml-robotics-art",
+    "category": "Human-Robotics",
+    "thumb": "post1.jpg",
+    "videoURL": "https://www.youtube.com/shorts/PjBV13JU6Eo",
+    "description": "<p>One of the main reasons I'm working at FAR-Labs in NYC is to pursue my personal research on augmenting the physical artist's workflow. Currently, I'm focused on using ML and Computer Vision to detect line drawings and programmatically draw realistic shading on them.</p><p>Shadowing can be challenging for novice physical artists, but once they have a robotic pen plotter shade for them when given a point light direction, they begin to understand its intricacies.</p>",
+    "previewImages": [
+      "axi3.jpg"
+    ],
+    "meta": {
+      "date": "06/15/2022",
+      "website": "https://axidraw.com/",
+      "services": [
+        "Machine Learning",
+        "Pen Plotting",
+        "Human-Robotics"
+      ],
+      "repo": "https://github.com/FAR-Lab/"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Custom Audio Machine Learning for Robotic Design",
+    "slug": "audio-ml-david",
+    "category": "Audio ML & Robotics",
+    "thumb": "post2.jpg",
+    "description": "<p>One of my advisors, David Goedicke, does extensive research into how audio can be used to improve human-robotics interactions through machine learning. I've spent a better part of this summer programming with him to create a streamlined system that allows anyone to upload their own audio ML models and use them to control a small robot.</p><p>Through node-red, Google's Teachable Machines, and a ton of backend development, we hope to provide a simple process for building robots that naturally react to sounds in ways not possible to the average, non-technical person.</p><p>Links to both custom node-red nodes can be found on my GitHub.</p>",
+    "previewImages": [
+      "audioml1.jpg"
+    ],
+    "meta": {
+      "date": "06/15/2022",
+      "website": "",
+      "services": [
+        "Node-Red",
+        "Spectrogram",
+        "Machine Learning"
+      ],
+      "repo": "https://github.com/FAR-Lab/node-red-contrib-ml-select"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Cross Cultural Driving Simulator",
+    "slug": "XCultural-driving",
+    "category": "VR Self Driving Studies",
+    "thumb": "xcultural3.jpg",
+    "description": "<p>Autonomous vehicles are having issues dealing with ambiguous driving scenarios, such as when two or more cars arrive at a four way intersection at the same time. These ambiguities grow when self-driving cars are placed in other countries with unique traffic laws and driver behaviors.</p><p>So, I've been working with FAR-Labs on their virtual reality driving simulator, running New York City studies and writing detailed documentation for future users.</p>",
+    "previewImages": [
+      "xcultural1.jpg",
+      "xcultural2.jpg"
+    ],
+    "meta": {
+      "date": "07/29/2022",
+      "website": "",
+      "services": [
+        "VR",
+        "Self-Driving"
+      ],
+      "repo": "https://github.com/FAR-Lab/CrossCulturalDriving2021"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Grow Crazy!",
+    "slug": "grow-crazy",
+    "category": "Game Development",
+    "thumb": "growcrazy2.jpg",
+    "videoURL": "https://www.youtube.com/watch?v=DL6_UkxYAd4&ab_channel=Cooper",
+    "description": "<p>After countless long work weeks with my team, Sprout Studios, our game \"Grow Crazy!\" was released on May 21st, 2022. In it, you play a housekeeper attempting to keep a mansion tidy while a mischievous plant tries to knock expensive artifacts off shelves!</p><p>The game contains full co-op support, over 20 levels, and a unique gameplay experience against an AI controlled plant. On the 22nd, we presented \"Grow Crazy!\" at the end-of-year game exposition, where 500 attendees had the opportunity to play.</p>",
+    "previewImages": [
+      "growcrazy1.png"
+    ],
+    "meta": {
+      "date": "05/21/2022",
+      "website": "",
+      "services": [
+        "Game Development",
+        "Design"
+      ],
+      "repo": "https://github.coecis.cornell.edu/xg54/GrowCrazy"
+    }
+  },
+  {
+    "id": 5,
+    "title": "CUSD Ithaca Carbon Neutral 2030 Modeling",
+    "slug": "icn-2030-modeling",
+    "category": "Project Team",
+    "thumb": "cusd1.jpg",
+    "description": "<p>Cornell University Sustainable Design (CUSD) is a project team focused on creating a more sustainable future. I work on this team as a Computer Science lead for the subteam, ICN 2030 Modeling.</p><p>This semester, the Ithaca Carbon Neutral 2030 Modeling team was focused on implementing a data generator that could provide training data for our central ML model. We wrote software using RhinoCommon, a C# library used to create plugins for the modeling software Rhino, that can generate a building model file with given dimensions.</p><p>I've also written a basic React website to house our ML model for distribution to Ithacan residents as to help reduce carbon emissions. Below is a link to the in progress React site and the team's final report for more information.</p>",
+    "previewImages": [
+      "cusd2.jpg",
+      "cusd3.jpg"
+    ],
+    "meta": {
+      "date": "05/16/2022",
+      "website": "https://icn2030.vercel.app/",
+      "report": "finalreport.pdf",
+      "services": [
+        "Sustainable Design",
+        "Modeling",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "title": "Coming Soon",
+    "slug": "coming-soon",
+    "category": "Check Back Soon!",
+    "thumb": "comingsoon.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "previewImages": [
+      "portfolio-6.jpg",
+      "portfolio-2.jpg",
+      "portfolio-3.jpg"
+    ],
+    "meta": {
+      "client": "Tasnim Khatun",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "title": "Coming Soon",
+    "slug": "coming-soon",
+    "category": "Check Back Soon!",
+    "thumb": "comingsoon.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "previewImages": [
+      "portfolio-6.jpg",
+      "portfolio-2.jpg",
+      "portfolio-3.jpg"
+    ],
+    "meta": {
+      "client": "Tasnim Khatun",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "title": "Coming Soon",
+    "slug": "coming-soon",
+    "category": "Check Back Soon!",
+    "thumb": "comingsoon.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "previewImages": [
+      "portfolio-6.jpg",
+      "portfolio-2.jpg",
+      "portfolio-3.jpg"
+    ],
+    "meta": {
+      "client": "Tasnim Khatun",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "title": "Coming Soon",
+    "slug": "coming-soon",
+    "category": "Check Back Soon!",
+    "thumb": "comingsoon.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "previewImages": [
+      "portfolio-6.jpg",
+      "portfolio-2.jpg",
+      "portfolio-3.jpg"
+    ],
+    "meta": {
+      "client": "Tasnim Khatun",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "title": "Coming Soon",
+    "slug": "coming-soon",
+    "category": "Check Back Soon!",
+    "thumb": "comingsoon.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "previewImages": [
+      "portfolio-6.jpg",
+      "portfolio-2.jpg",
+      "portfolio-3.jpg"
+    ],
+    "meta": {
+      "client": "Tasnim Khatun",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "title": "Coming Soon",
+    "slug": "coming-soon",
+    "category": "Check Back Soon!",
+    "thumb": "comingsoon.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "previewImages": [
+      "portfolio-6.jpg",
+      "portfolio-2.jpg",
+      "portfolio-3.jpg"
+    ],
+    "meta": {
+      "client": "Tasnim Khatun",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  }
+
+ 
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "media": "linkedin",
+    "url": "https://www.linkedin.com/in/coopermurr/"
+  },
+  {
+    "id": 3,
+    "media": "envelope",
+    "url": "mailto:coopermurr33@gmail.com"
+  },
+  {
+    "id": 4,
+    "media": "github",
+    "url": "https://github.com/DrWalrus33"
+  }
+]
