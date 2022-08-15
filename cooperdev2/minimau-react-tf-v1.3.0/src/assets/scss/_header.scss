@@ -473,7 +473,25 @@
     }
   }
 }
+.service-background {
+  margin-bottom: 50px;
 
+  & a {
+    line-height: 1;
+    position: relative;
+
+    & img {
+      max-width: 100%;
+
+      &.experiencebackground2 {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+      }
+    }
+  }
+}
 /*-- Side header Menu --*/
 .side-header-menu {
 }

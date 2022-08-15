@@ -140,10 +140,20 @@
         &.light-logo {
           opacity: 1;
         }
-        &.experiencebackground2
-        {
+        
+      }
+    }
+  }
+
+  & .service-background {
+    & a {
+      & img {
+        opacity: 0;
+
+        &.experiencebackground2 {
           opacity: 1;
         }
+        
       }
     }
   }

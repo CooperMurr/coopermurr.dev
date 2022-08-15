@@ -3,7 +3,6 @@ import {Link} from "react-router-dom";
 // Logo
 import LogoDark from '../../assets/images/logo.png'
 import LogoLight from '../../assets/images/light-logo.png'
-import ServiceLight from '../../assets/images/bg/experiencebackground2.jpg'
 const Logo = ({sideHeader}) => {
     return (
         <Fragment>

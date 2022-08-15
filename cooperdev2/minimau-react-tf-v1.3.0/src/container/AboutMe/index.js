@@ -4,13 +4,12 @@ import Thumbnail from "../../components/thumbnail";
 import Content from "../../components/content";
 import Skill from "../../components/skill";
 import aboutData from '../../data/about-me'
-
 const AboutMe = ({type}) => {
     return (
         <div className={type !== 'page' ? 'section-padding section' : null}>
             <Container>
                 <Row className={'align-items-center'}>
-                    <Col lg={6}>
+                    <Col lg={4}>
                         <Thumbnail classes={'about-thumbnail mb-md-30 mb-sm-30 mb-xs-30'} thumb={`about/${aboutData.thumb}`}/>
                     </Col>
 
@@ -20,11 +19,10 @@ const AboutMe = ({type}) => {
                             <p>{aboutData.bio}</p>
                             <ul className="personal-info">
                                 <li><span>Email:</span>{aboutData.email}</li>
-                                <li><span>Freelance:</span>{aboutData.availability ? 'Available' : 'Not Available'}</li>
                                 <li>
                                     <span>Language:</span>
                                     {aboutData.languages.map((language, index) => (
-                                        <p key={index} style={{display: 'inline-block'}}>{`${language},  `}</p>
+                                        <p key={index} style={{display: 'inline-block'}}>{`${language}`}</p>
                                     ))}
                                 </li>
                             </ul>
@@ -43,6 +41,16 @@ const AboutMe = ({type}) => {
                         </Content>
                     </Col>
                 </Row>
+                <Row>
+                    <span>&nbsp; </span>
+                </Row>
+                <Row>
+                    <span>&nbsp; </span>
+                </Row>
+                <Row>
+                        <Thumbnail thumb={`about/${aboutData.img}`}/>
+                </Row>
+
             </Container>
         </div>
     );
