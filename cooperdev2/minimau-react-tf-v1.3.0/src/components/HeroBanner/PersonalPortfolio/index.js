@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import HeroBannerContainer from "../../../container/HeroBanner";
-import bannerBg from '../../../assets/images/hero/slider-1.jpg';
+import bannerBg from '../../../assets/images/hero/temp-hero.jpg';
 import pdf from '../../../assets/images/portfolio/resume.pdf';
 import personalInfo from '../../../data/personalInfo'
 import Popup from 'reactjs-popup';

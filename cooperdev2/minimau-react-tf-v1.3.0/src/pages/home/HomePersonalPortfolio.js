@@ -11,16 +11,18 @@ import PersonalPortfolioTeam from "../../container/team";
 import PersonalPortfolioService from "../../container/service";
 import PersonalPortfolio from "../../container/portfolio/PersonalPortfolio";
 import BannerPersonalPortfolio from "../../components/HeroBanner/PersonalPortfolio";
-
-const HomePersonalPortfolio = () => {
+/* {window.innerWidth < 992 ? <SideHeader mobile={true} /> :  />}
+ */const HomePersonalPortfolio = () => {
     return (
         <div className={'main-wrapper has-side-header'}>
-            <SideHeader mobile={false}/>
-            <BannerPersonalPortfolio/>
-            <PersonalPortfolio/>
-            <PersonalPortfolioService/>
-            <Contact/>
-            <Footer position={'static'}/>
+            {window.innerWidth < 992 ? <Header classes={'position-static'}></Header>
+            : <SideHeader mobile={false}/>}
+            {window.innerWidth < 992 && <SideHeader mobile={true}/>}
+            <BannerPersonalPortfolio />
+            <PersonalPortfolio />
+            <PersonalPortfolioService />
+            <Contact />
+            <Footer position={'static'} />
         </div>
     );
 };

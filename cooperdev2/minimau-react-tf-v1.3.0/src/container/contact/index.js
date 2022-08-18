@@ -24,7 +24,7 @@ const Contact = () => {
                                     <QuickContact
                                         phone={'+1 949 922 3451'}
                                         email={'coopermurr33@gmail.com'}
-                                        location={'Bushwick, Brooklyn NY'}
+                                        location={'Ithaca, NY'}
                                     />
                                 </Col>
                             </Row>
