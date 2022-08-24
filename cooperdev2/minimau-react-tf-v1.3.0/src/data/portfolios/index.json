@@ -27,7 +27,7 @@
     "slug": "audio-ml-david",
     "category": "Audio ML & Robotics",
     "thumb": "audioml_thumb.jpg",
-    "description": "<p>One of my advisors, David Goedicke, does extensive research into how audio can be used to improve human-robotics interactions through machine learning. I've spent a better part of this summer programming with him to create a streamlined system that allows anyone to upload their own audio ML models and use them to control a small robot.</p><p>Through node-red, Google's Teachable Machines, and a ton of backend development, we hope to provide a simple process for building robots that naturally react to sounds in ways not possible to the average, non-technical person.</p><p>Links to both custom node-red nodes can be found on my GitHub.</p>",
+    "description": "<p>One of my advisors, David Goedicke, does extensive research on how audio can be used to improve human-robotics interactions through machine learning. I spent a large portion of a summer programming with him to create a streamlined system that allows anyone to upload their own audio ML models and use them to control a small robot.</p><p>Through node-red, Google's Teachable Machines, and some backend development, we provided a simple process for building robots that naturally react to sounds in ways not possible to the average, non-technical person.</p><p>Links to both custom node-red nodes can be found on my GitHub.</p>",
     "previewImages": [
       "audioml2.jpg",
       "audioml1.jpg"
@@ -49,7 +49,7 @@
     "slug": "XCultural-driving",
     "category": "VR Self Driving Studies",
     "thumb": "xcultural3.jpg",
-    "description": "<p>Autonomous vehicles are having issues dealing with ambiguous driving scenarios, such as when two or more cars arrive at a four way intersection at the same time. These ambiguities grow when self-driving cars are placed in other countries with unique traffic laws and driver behaviors.</p><p>So, I've been working with FAR-Labs on their virtual reality driving simulator, running New York City studies and writing detailed documentation for future users.</p>",
+    "description": "<p>Autonomous vehicles have issues dealing with ambiguous driving scenarios, such as when two or more cars arrive at a four way intersection at the same time. These ambiguities grow when self-driving cars are placed in other countries with unique traffic laws and driver behaviors.</p><p>So, I've been working with FAR-Labs on their virtual reality driving simulator, which is meant to collect data on these scenarios. Specifically, I've been running New York City studies and writing detailed documentation for future users.</p>",
     "previewImages": [
       "xcultural1.jpg",
       "xcultural2.jpg"
@@ -71,7 +71,7 @@
     "category": "Game Development",
     "thumb": "growcrazy2.jpg",
     "videoURL": "https://www.youtube.com/watch?v=DL6_UkxYAd4&ab_channel=Cooper",
-    "description": "<p>After countless long work weeks with my team, Sprout Studios, our game \"Grow Crazy!\" was released on May 21st, 2022. In it, you play a housekeeper attempting to keep a mansion tidy while a mischievous plant tries to knock expensive artifacts off shelves!</p><p>The game contains full co-op support, over 20 levels, and a unique gameplay experience against an AI controlled plant. On the 22nd, we presented \"Grow Crazy!\" at the end-of-year game exposition, where 500 attendees had the opportunity to play.</p>",
+    "description": "<p>After countless long work hours with my team, Sprout Studios, our game \"Grow Crazy!\" was released on May 21st, 2022. In it, you play a housekeeper frantically trying to keep a mansion tidy while a mischievous plant tries to knock expensive artifacts off shelves!</p><p>The game contains full co-op support, over 20 levels, and a unique gameplay experience against an AI controlled plant. On the 22nd, we presented \"Grow Crazy!\" at the end-of-year game exposition, where 500 attendees had the opportunity to play.</p>",
     "previewImages": [
       "growcrazy1.png"
     ],
@@ -91,7 +91,7 @@
     "slug": "icn-2030-modeling",
     "category": "Project Team",
     "thumb": "cusd1.jpg",
-    "description": "<p>Cornell University Sustainable Design (CUSD) is a project team focused on creating a more sustainable future. I work on this team as a Computer Science lead for the subteam, ICN 2030 Modeling.</p><p>This semester, the Ithaca Carbon Neutral 2030 Modeling team was focused on implementing a data generator that could provide training data for our central ML model. We wrote software using RhinoCommon, a C# library used to create plugins for the modeling software Rhino, that can generate a building model file with given dimensions.</p><p>I've also written a basic React website to house our ML model for distribution to Ithacan residents as to help reduce carbon emissions. Below is a link to the in progress React site and the team's final report for more information.</p>",
+    "description": "<p>Cornell University Sustainable Design (CUSD) is a project team focused on creating a more sustainable future. I work on this team as a Computer Science lead for the subteam, ICN 2030 Modeling.</p><p>The Ithaca Carbon Neutral 2030 Modeling team, among other things, was focused on implementing a data generator that could provide training data for our central ML model. We wrote software using RhinoCommon, a C# library used to create plugins for the modeling software Rhino, that can generate a building model file with given dimensions.</p><p>I've also written a basic React website to house our ML model for distribution to Ithacan residents as to help reduce carbon emissions. Below is a link to the in progress React site and the team's final report for more information.</p>",
     "previewImages": [
       "cusd2.jpg",
       "cusd3.jpg"
@@ -113,7 +113,7 @@
     "slug": "vr-bus-ride",
     "category": "Virtual Reality",
     "thumb": "vrbusthumb.jpg",
-    "description": "<p>The Immsersive Bus Ride is an in progress Roosevelt Island Tour project where guests are accompanied with Oculus Quest headsets and are driven around the island learning about climate change. During this project, I maintained and setup technical equipment and assisted with software problems as necessary.</p><p>As climate change is one of humanity's most pressing problems, the public needs to be come more informed on effective measures to take. So, through the immersive VR bus ride, guests experience a different future of Roosevelt Island.</p>",
+    "description": "<p>The Immsersive Bus Ride is an in progress Roosevelt Island Tour project where guests are accompanied with Oculus Quest headsets and are driven around the island learning about climate change. During this project, I maintained and setup technical equipment and assisted with software problems as necessary.</p><p>As climate change is one of humanity's most pressing problems, the public needs to be come more informed on effective measures to take. So, through the immersive VR bus ride, guests experience a different future of Roosevelt Island.</p><p>I'm currently working with other peers to write a publication to be released.",
     "previewImages": [
       "vrbus2.jpg",
       "vrbus1.jpg"  
