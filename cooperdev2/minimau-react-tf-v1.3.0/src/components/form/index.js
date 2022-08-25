@@ -7,7 +7,7 @@ const Form = () => {
             <Input type={'text'} id={'name'} name={'name'} placeholder={'Name'} required={true}/>
             <Input type={'email'} id={'email'} name={'email'} placeholder={'Email'} required={true}/>
             <Input type={'textarea'} id={'message'} name={'message'} placeholder={'Message'} required={true}/>
-            <button type={'submit'}>Send</button>
+            <button type={'submit'} disabled>Send</button>
         </form>
     );
 };
