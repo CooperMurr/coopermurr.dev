@@ -6,7 +6,7 @@
     "category": "Human-Robotics",
     "thumb": "post1.jpg",
     "videoURL": "https://www.youtube.com/shorts/PjBV13JU6Eo",
-    "description": "<p>One of the main reasons I'm working at FAR-Labs in NYC is to pursue my personal research on augmenting the physical artist's workflow. Currently, I'm focused on using ML and Computer Vision to detect line drawings and programmatically draw realistic shading on them.</p><p>Shadowing can be challenging for novice physical artists, but once they have a robotic pen plotter shade for them when given a point light direction, they begin to understand its intricacies.</p>",
+    "description": "<p>One of the main reasons I worked at FAR-Labs in NYC was to pursue my personal research on augmenting the physical artist’s workflow. I focused on using the ShadeSketch ML model and the AxiDraw to detect line drawings and programmatically draw realistic shading on them from a given light direction. Shadowing can be challenging for novice physical artists, but once they have a robotic pen plotter shade for them, they begin to understand its intricacies.</p><p>Furthermore, with the robotic shading pipeline complete, I hope to run a user case study on the outcomes of this unique human-robotics interaction. Specifically, I will study how artists react to the robot’s shading capabilities and how that implies conclusions on future human-robotics interactions.</p>",
     "previewImages": [
       "axi3.jpg"
     ],
