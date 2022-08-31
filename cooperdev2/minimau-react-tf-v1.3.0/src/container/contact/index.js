@@ -1,10 +1,11 @@
 import React from 'react';
-import {Container, Row, Col} from 'react-bootstrap'
+import { Container, Row, Col } from 'react-bootstrap'
 import Form from "../../components/form";
 import QuickContact from "../../components/QuickContact";
 import Map from "../../components/map";
 
 const Contact = () => {
+    
     return (
         <div className="bg-grey section ">
             <div
@@ -16,7 +17,8 @@ const Contact = () => {
                                 <Col lg={10} className={'mb-45'}>
                                     <div className="contact-form">
                                         <h3>CONTACT FORM</h3>
-                                        <Form/>
+                                        <Form />
+
                                     </div>
                                 </Col>
 
@@ -42,6 +44,7 @@ const Contact = () => {
             </div>
         </div>
     );
-};
+
+}
 
 export default Contact;
