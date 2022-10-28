@@ -130,47 +130,40 @@
   },
   {
     "id": 7,
-    "title": "Coming Soon",
-    "slug": "coming-soon",
-    "category": "Check Back Soon!",
-    "thumb": "comingsoon.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "title": "CUHousing",
+    "slug": "cu-housing",
+    "category": "Cornell Housing Tool",
+    "thumb": "cu-housing.jpg",
+    "description": "<p>During the Spring semester of 2022, I took Cornell Design Tech Initiative's course, Trends in Web Developemnt. In this course, we learned the basics of React web development with TypeScript, culminating in a final project with a team of 4. </p><p>We decided to create CUHousing, a Cornell University tool that allows students to quickly overview information on avaliable housing options on and off campus.</p>",
     "previewImages": [
-      "portfolio-6.jpg",
-      "portfolio-2.jpg",
-      "portfolio-3.jpg"
+      "cu-housing1.png"
     ],
     "meta": {
-      "client": "Tasnim Khatun",
-      "date": "29/09/2021",
-      "website": "https://hasthemes.com",
+      "date": "10/05/2022",
+      "website": "https://webdev.cornelldti.org/",
       "services": [
-        "Branding",
-        "Tech",
-        "Photography"
+        "Web Development",
+        "React",
+        "Typescript"
       ]
     }
   },
   {
     "id": 8,
-    "title": "Coming Soon",
-    "slug": "coming-soon",
-    "category": "Check Back Soon!",
-    "thumb": "comingsoon.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "title": "Critter World Simulation",
+    "slug": "critter-world",
+    "category": "Cornell Honors Course Project",
+    "thumb": "critterworld.jpg",
+    "description": "<p>During my first semester at Cornell University, I dived into the course entitled \"CS2112 Honors Object-Oriented Design and Data Structures\". For the final project of this course, split up into multiple assignments, we were tasked to simulate a world of critters, complete with a GUI, parser for an abstract syntax tree, and more!</p><p>The software simulates \"critters\" in a user or randomly generated world through the following supported actions: breeding, attacking, eating, dying, moving, and custom critter reactions. A pdf of the assignment description can be found below.</p>",
     "previewImages": [
-      "portfolio-6.jpg",
-      "portfolio-2.jpg",
-      "portfolio-3.jpg"
+      "critterworld1.jpg"
     ],
     "meta": {
-      "client": "Tasnim Khatun",
-      "date": "29/09/2021",
-      "website": "https://hasthemes.com",
+      "date": "30/09/2020",
+      "website": "https://www.cs.cornell.edu/courses/cs2112/2020fa/project/project.pdf",
       "services": [
-        "Branding",
-        "Tech",
-        "Photography"
+        "Simulation",
+        "Language Parsing"
       ]
     }
   },
