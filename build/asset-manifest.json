@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.c8deae36.chunk.css",
-    "main.js": "/static/js/main.c71b4d9a.chunk.js",
-    "main.js.map": "/static/js/main.c71b4d9a.chunk.js.map",
+    "main.js": "/static/js/main.87de04e4.chunk.js",
+    "main.js.map": "/static/js/main.87de04e4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.952803c4.js",
     "runtime-main.js.map": "/static/js/runtime-main.952803c4.js.map",
     "static/css/2.252f2559.chunk.css": "/static/css/2.252f2559.chunk.css",
-    "static/js/2.dc3aa961.chunk.js": "/static/js/2.dc3aa961.chunk.js",
-    "static/js/2.dc3aa961.chunk.js.map": "/static/js/2.dc3aa961.chunk.js.map",
+    "static/js/2.ee4b4f38.chunk.js": "/static/js/2.ee4b4f38.chunk.js",
+    "static/js/2.ee4b4f38.chunk.js.map": "/static/js/2.ee4b4f38.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b61c4302b8e942aae4d5d1281fff2f9f.js": "/precache-manifest.b61c4302b8e942aae4d5d1281fff2f9f.js",
+    "precache-manifest.155faed0d0edf2e9ed9713ce88f89bba.js": "/precache-manifest.155faed0d0edf2e9ed9713ce88f89bba.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.252f2559.chunk.css.map": "/static/css/2.252f2559.chunk.css.map",
     "static/css/main.c8deae36.chunk.css.map": "/static/css/main.c8deae36.chunk.css.map",
-    "static/js/2.dc3aa961.chunk.js.LICENSE.txt": "/static/js/2.dc3aa961.chunk.js.LICENSE.txt",
+    "static/js/2.ee4b4f38.chunk.js.LICENSE.txt": "/static/js/2.ee4b4f38.chunk.js.LICENSE.txt",
     "static/media/404.png": "/static/media/404.fe8bed5f.png",
     "static/media/about-2.jpg": "/static/media/about-2.02f0f274.jpg",
     "static/media/about.jpg": "/static/media/about.35c0b0ff.jpg",
@@ -23,6 +23,9 @@
     "static/media/audioml_thumb.jpg": "/static/media/audioml_thumb.68d8dcc0.jpg",
     "static/media/axi3.jpg": "/static/media/axi3.11b143d1.jpg",
     "static/media/comingsoon.jpg": "/static/media/comingsoon.2d42ac5d.jpg",
+    "static/media/critterworld.jpg": "/static/media/critterworld.886c6ccc.jpg",
+    "static/media/critterworld1.jpg": "/static/media/critterworld1.60e0deb3.jpg",
+    "static/media/cu-housing.jpg": "/static/media/cu-housing.a12edbb7.jpg",
     "static/media/cusd1.jpg": "/static/media/cusd1.1dd8b226.jpg",
     "static/media/cusd2.jpg": "/static/media/cusd2.6c220812.jpg",
     "static/media/cusd3.jpg": "/static/media/cusd3.c951841f.jpg",
@@ -34,7 +37,7 @@
     "static/media/light-logo.png": "/static/media/light-logo.a1fac91f.png",
     "static/media/logo.png": "/static/media/logo.13831676.png",
     "static/media/post1.jpg": "/static/media/post1.f570f751.jpg",
-    "static/media/resume.pdf": "/static/media/resume.58d6db4e.pdf",
+    "static/media/resume.pdf": "/static/media/resume.4e85344e.pdf",
     "static/media/servicebackground.png": "/static/media/servicebackground.6ae546f7.png",
     "static/media/servicebackground2.png": "/static/media/servicebackground2.23a4b998.png",
     "static/media/slider-1.jpg": "/static/media/slider-1.34c6010a.jpg",
@@ -49,8 +52,8 @@
   "entrypoints": [
     "static/js/runtime-main.952803c4.js",
     "static/css/2.252f2559.chunk.css",
-    "static/js/2.dc3aa961.chunk.js",
+    "static/js/2.ee4b4f38.chunk.js",
     "static/css/main.c8deae36.chunk.css",
-    "static/js/main.c71b4d9a.chunk.js"
+    "static/js/main.87de04e4.chunk.js"
   ]
 }
