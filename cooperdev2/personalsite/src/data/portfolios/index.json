@@ -18,7 +18,7 @@
         "Pen Plotting",
         "Human-Robotics"
       ],
-      "repo": "https://github.com/FAR-Lab/"
+      "repo": "https://github.com/CooperMurr/AxiDrawProject"
     }
   },
   {
@@ -40,7 +40,7 @@
         "Spectrogram",
         "Machine Learning"
       ],
-      "repo": "https://github.com/FAR-Lab/node-red-contrib-ml-select"
+      "repo": "https://github.com/CooperMurr/AudioMLSelectionInterface"
     }
   },
   {
@@ -145,8 +145,10 @@
         "Web Development",
         "React",
         "Typescript"
-      ]
+      ],
+      "repo": "https://github.com/CooperMurr/CUHousing"
     }
+    
   },
   {
     "id": 8,
