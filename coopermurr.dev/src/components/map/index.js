@@ -11,7 +11,8 @@ const Map = ({ text, lat, long }) => {
             </div>
             <div className="col-lg-10 col-12">
                 <div id="contact-map">
-                    <iframe src={`https://www.google.com/maps/embed/v1/place?key=AIzaSyAIonwnRE_l4IM9-oWTD9WJ5PHedD4Z2a8&q=Ithaca, NY&center=${lat}, ${long}&zoom=11`}
+                    <iframe title="location"
+                    src={`https://www.google.com/maps/embed/v1/place?key=AIzaSyAIonwnRE_l4IM9-oWTD9WJ5PHedD4Z2a8&q=Ithaca, NY&center=${lat}, ${long}&zoom=11`}
                      width="100%" 
                      height="100%" 
                      style={{border:"0"}} 

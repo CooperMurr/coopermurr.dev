@@ -17,7 +17,8 @@ import BlogThreeColumnPage from "./pages/blog/ThreeColumn";
 import HomeThreeColumn from "./pages/home/HomeThreeColumn"; */
 import PortfolioDetailsPage from "./pages/portfolio/details";
 import HomePersonalPortfolio from "./pages/home/HomePersonalPortfolio";
-import PortfolioGridTwoColumnPage from "./pages/portfolio/grid/two-column";
+import PortfolioGridThreeColumnPage from './pages/portfolio/grid/three-column';
+import PortfolioGridFourColumnFullWidthPage from './pages/portfolio/grid/four-column-fullwidth';
 
 /* import PortfolioMasonryFourColumnPage from "./pages/portfolio/masonry/four-column";
 import PortfolioMasonryThreeColumnPage from "./pages/portfolio/masonry/three-column";
@@ -39,7 +40,7 @@ const App = () => {
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio/:slug"}`}
                            component={PortfolioDetailsPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio"}`}
-                           component={PortfolioGridTwoColumnPage}/>
+                           component={PortfolioGridFourColumnFullWidthPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/about"}`}
                            component={AboutPage}/>
                     <Route exact path={`${process.env.PUBLIC_URL + "/"}`}

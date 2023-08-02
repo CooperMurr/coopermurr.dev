@@ -11,7 +11,7 @@ const TemplatePortfolioDetails = ({portfolio}) => {
             <Container>
                 <Row>
                     <Col lg={7}>
-                        <PortfolioDetailsThumb images={portfolio?.previewImages} videoURL={portfolio?.videoURL}/>
+                        <PortfolioDetailsThumb images={portfolio?.previewImages} videoURLs={portfolio?.videoURLs}/>
                     </Col>
 
                     <Col lg={5}>

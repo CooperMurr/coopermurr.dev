@@ -7,7 +7,7 @@ const FooterTwo = ({loadHandler, allItems}) => {
                 <div className="row align-items-center">
 
                     <div className="col-lg-4 col-12 d-flex justify-content-center order-lg-2 order-1 mb-sm-15 mb-xs-15">
-                        <button
+                        <button 
                             className={`load-more-btn ${allItems ? 'disabled' : null}`}
                             onClick={() => {
                                 loadHandler()

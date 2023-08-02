@@ -29,7 +29,7 @@ const BannerPersonalPortfolio = () => {
                 <h2>Hello , I’m</h2>
                 <h1>{personalInfo.name}</h1>
                 <h2>{personalInfo.designation}</h2>
-                <Popup trigger={<a>View Resume</a>} position="right center" {...{ contentStyle, overlayStyle, arrowStyle }}>
+                <Popup trigger={<a className="main-slider-content">View Resume</a>} position="right center" {...{ contentStyle, overlayStyle, arrowStyle }}>
                     <div>
                         <p>
                             Page {pageNumber} of {numPages}

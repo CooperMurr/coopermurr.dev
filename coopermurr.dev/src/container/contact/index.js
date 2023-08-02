@@ -34,7 +34,7 @@ const Contact = () => {
 
                         <Col lg={6}>
                             <Map
-                                text={"Currently I live Ithaca, NY completing my studies as a third year at Cornell University."}
+                                text={"Currently I live Ithaca, NY completing my studies as a senior at Cornell University."}
                                 lat={42.4440}
                                 long={-76.5019}
                             />

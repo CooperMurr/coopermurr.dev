@@ -1,11 +1,32 @@
 [
   {
+    "id": 9,
+    "title": "Klimbing Kiosk",
+    "slug": "klimbing-kiosk",
+    "category": "Retail React-Native App",
+    "thumb": "klimbingkioskthumb.png",
+    "description": "<p>During my time working for Dick's Sporting Goods I, initially as a side project, created a React-Native application called Klimbing Kiosk that provides useful climbing information to beginners at the Public Lands store in Cranberry, Pennsylvania. The kiosk running the android app is placed in front of the in store climbing wall. This was chosen because the main interface for navigating between screens is an image of the climbing wall. Some features include a screen about top roping, a screen for those feeling nervous about climbing, and a modal for learning how to rest properly.</p><p>The application uses Azure Application Insights to get feedback on what/how often customers interact with the kiosk and to what screens or modals. It builds an apk artifact automatically through the use of Github Actions.</p>",
+    "previewImages": [
+      "klimbingkiosk1.jpg",
+      "klimbingkiosk2.png"
+    ],
+    "meta": {
+      "website": "",
+      "date": "18/08/23",
+      "services": [
+        "Climbing",
+        "Mobile App Development",
+        "Retail"
+      ]
+    }
+  },
+  {
     "id": 1,
     "title": "Machine Learning Integrated Robotics for Learning Physical Artistry",
     "slug": "ml-robotics-art",
     "category": "Human-Robotics",
     "thumb": "post1.jpg",
-    "videoURL": "https://www.youtube.com/shorts/PjBV13JU6Eo",
+    "videoURLs": ["https://youtu.be/SxX-VCrXErk", "https://www.youtube.com/shorts/PjBV13JU6Eo"],
     "description": "<p>One of the main reasons I worked at FAR-Labs in NYC was to pursue my personal research on augmenting the physical artist’s workflow. I focused on using the ShadeSketch ML model and the AxiDraw to detect line drawings and programmatically draw realistic shading on them from a given light direction. Shadowing can be challenging for novice physical artists, but once they have a robotic pen plotter shade for them, they begin to understand its intricacies.</p><p>Furthermore, with the robotic shading pipeline complete, I hope to run a user case study on the outcomes of this unique human-robotics interaction. Specifically, I will study how artists react to the robot’s shading capabilities and how that implies conclusions on future human-robotics interactions.</p>",
     "previewImages": [
       "axi3.jpg"
@@ -19,6 +40,29 @@
         "Human-Robotics"
       ],
       "repo": "https://github.com/CooperMurr/AxiDrawProject"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Dick's Sporting Goods - Innovation Team",
+    "slug": "dsg-innovation",
+    "category": "Software Engineer Internship",
+    "thumb": "dcsg_thumb.png",
+    "description": "<p>For the summer of 2023 I had the privilege of working for Dick's Sporting Goods as a software engineering intern on the Innovation team. University teaches you a lot on Computer Science, but the first months at this company have developed my skills immensely. We used the Agile development process, talking through the upcoming stories on our Jira board at daily stand up before pairing up and finishing our assigned tickets. Specifically, I've worked on applications like bat genie and cleat wizard. These are cutting edge apps that live on a kiosk in a Dick's Sporting Goods store that customers can use to get bats and cleats recommended to them. The apps use machine learning and high speed cameras to track the movement of the customer for the experience.</p><p>I've learned Spring, Spring-boot, OpenAPI, RESTFul, MyBatis, and Kapt for back end logic related to setting up API endpoints through the delegate pattern as well as performing operations on a postgressql database.</p><p>Not only this, but I've now been exposed to Postman, Azure App Services and PCF for deployment, and Github Actions to automatically build and deploy after pushing.</p><p>Finally, I took part in the internal Dick's Sporting Goods hackathon with a team of 5 other interns. The challenge prompt was centered around ChatGpt's API, and after writing lots of code, we pushed out a backpack recommending AI chat bot. The pitch video for Backpack Expert (with Zippy!) is to the left.</p>",
+    "videoURLs":[
+      "https://youtu.be/oBh7cmzQAuU"
+    ],
+    "previewImages": [
+      "dcsg1.jpg"
+    ],
+    "meta": {
+      "date": "18/08/23",
+      "website": "",
+      "services": [
+        "Retail",
+        "Full Stack",
+        "Agile Development"
+      ]
     }
   },
   {
@@ -128,28 +172,7 @@
       ]
     }
   },
-  {
-    "id": 7,
-    "title": "CUHousing",
-    "slug": "cu-housing",
-    "category": "Cornell Housing Tool",
-    "thumb": "cu-housing.jpg",
-    "description": "<p>During the Spring semester of 2022, I took Cornell Design Tech Initiative's course, Trends in Web Developemnt. In this course, we learned the basics of React web development with TypeScript, culminating in a final project with a team of 4. </p><p>We decided to create CUHousing, a Cornell University tool that allows students to quickly overview information on avaliable housing options on and off campus.</p>",
-    "previewImages": [
-      "cu-housing1.png"
-    ],
-    "meta": {
-      "date": "10/05/2022",
-      "website": "https://webdev.cornelldti.org/",
-      "services": [
-        "Web Development",
-        "React",
-        "Typescript"
-      ],
-      "repo": "https://github.com/CooperMurr/CUHousing"
-    }
-    
-  },
+  
   {
     "id": 8,
     "title": "Critter World Simulation",
@@ -170,10 +193,10 @@
     }
   },
   {
-    "id": 9,
-    "title": "Coming Soon",
-    "slug": "coming-soon",
-    "category": "Check Back Soon!",
+    "id": 10,
+    "title": "Dick's Sporting Goods - Innovation Team",
+    "slug": "dsg-innovation",
+    "category": "Software Engineer Internship",
     "thumb": "comingsoon.jpg",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
@@ -193,7 +216,30 @@
     }
   },
   {
-    "id": 10,
+    "id": 9,
+    "title": "CUHousing",
+    "slug": "cu-housing",
+    "category": "Cornell Housing Tool",
+    "thumb": "cu-housing.jpg",
+    "description": "<p>During the Spring semester of 2022, I took Cornell Design Tech Initiative's course, Trends in Web Developemnt. In this course, we learned the basics of React web development with TypeScript, culminating in a final project with a team of 4. </p><p>We decided to create CUHousing, a Cornell University tool that allows students to quickly overview information on avaliable housing options on and off campus.</p>",
+    "previewImages": [
+      "cu-housing1.png"
+    ],
+    "meta": {
+      "date": "10/05/2022",
+      "website": "https://webdev.cornelldti.org/",
+      "services": [
+        "Web Development",
+        "React",
+        "Typescript"
+      ],
+      "repo": "https://github.com/CooperMurr/CUHousing"
+    }
+    
+  },
+ 
+  {
+    "id": 11,
     "title": "Coming Soon",
     "slug": "coming-soon",
     "category": "Check Back Soon!",
@@ -238,6 +284,4 @@
       ]
     }
   }
-
- 
 ]

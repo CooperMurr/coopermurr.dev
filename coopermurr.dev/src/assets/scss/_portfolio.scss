@@ -109,7 +109,7 @@
       background-size: cover;
 
       // Responsive
-      @media #{$large-mobile}{
+      @media #{$large-mobile} {
         min-height: 335px;
       }
     }
@@ -148,38 +148,42 @@
     }
 
     // Responsive
-    @media #{$large-mobile}{
+    @media #{$large-mobile} {
       font-size: 14px;
     }
   }
 }
 
 /*-- portfolios Five Column Wrap --*/
-.portfolio-column-five {
+.portfolio-column-four {
   margin-bottom: -15px;
 
   & [class*="col-"] {
-    flex: 1 0 20%;
-    max-width: 20%;
+    flex: 1 0 25%;
+    max-width: 25%;
 
     // Responsive
-    @media #{$laptop-device}{
+    @media #{$laptop-device} {
       flex: 1 0 25%;
       max-width: 25%;
     }
-    @media #{$desktop-device}{
+
+    @media #{$desktop-device} {
       flex: 1 0 33.33%;
       max-width: 33.33%;
     }
-    @media #{$tablet-device}{
+
+    @media #{$tablet-device} {
       flex: 1 0 50%;
       max-width: 50%;
     }
-    @media #{$large-mobile}{
+
+    @media #{$large-mobile} {
       flex: 1 0 50%;
       max-width: 50%;
     }
-    @media #{$small-mobile}{
+
+    @media #{$small-mobile} {
       flex: 1 0 100%;
       max-width: 100%;
     }
@@ -187,7 +191,7 @@
 }
 
 /*-- portfolios Four & Three Column Wrap --*/
-.portfolio-column-four, .portfolio-column-three {
+.portfolio-column-three {
   margin-bottom: -15px;
 }
 
@@ -209,11 +213,11 @@
   }
 
   // Responsive
-  @media #{$large-mobile}{
+  @media #{$large-mobile} {
     font-size: 14px;
   }
 
-  &.disabled{
+  &.disabled {
     opacity: 0.3;
     pointer-events: none;
   }
@@ -221,25 +225,30 @@
 
 /*-- portfolios Details Image --*/
 .portfolio-details-image {
+  margin-bottom: 30px;
   & img {
     width: 100%;
     margin-bottom: 30px;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
+  }
+ & ReactPlayer {
+  margin-bottom: 30px
+ }
+  &:last-child {
+    margin-bottom: 0;
   }
 }
+
 
 /*-- portfolios Details Content --*/
 .portfolio-details-content {
   padding-left: 30px;
 
   // Responsive
-  @media #{$tablet-device}{
+  @media #{$tablet-device} {
     padding-left: 15px;
   }
-  @media #{$large-mobile}{
+
+  @media #{$large-mobile} {
     padding-left: 15px;
   }
 
@@ -265,7 +274,7 @@
     letter-spacing: 1px;
 
     // Responsive
-    @media #{$large-mobile}{
+    @media #{$large-mobile} {
       font-size: 24px;
     }
   }

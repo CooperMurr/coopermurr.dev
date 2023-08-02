@@ -17,7 +17,7 @@ const PersonalPortfolio = () => {
                     </Col>
                 </Row>
 
-                <Row className={'portfolio-column-four mbn-30'}>
+                <Row className={'portfolio-column-three mbn-30'}>
                     {portfolios.slice(0, 9).map(portfolio => (
                         <Col key={portfolio.id} lg={4} md={6} className={'mb-30'}>
                             <Portfolio

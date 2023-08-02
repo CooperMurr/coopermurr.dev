@@ -8,7 +8,7 @@ const PortfolioGridFourColumn = ({portfolios, loading, fullWidth}) => {
 
     return (
         <Fragment>
-            <PageContainer classes={'bg-grey'} fullWidth={fullWidth}>
+            <PageContainer classes={'bg-grey'} fullWidth={fullWidth} >
                 <Container fluid={!!fullWidth} className={fullWidth ? 'p-0' : null}>
                     <Row className={'row-7 portfolio-column-four'}>
                         {portfolios.map(portfolio => (
